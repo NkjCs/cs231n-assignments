@@ -15,3 +15,9 @@ pip --version
 3、安装当前assignment1所需要的库（一次安装可能会error，多尝试几次）
 
 pip install -r ./requirements.txt
+
+
+
+学习顺序
+
+knn -> svm -> softmax -> two_layer_net -> feature
